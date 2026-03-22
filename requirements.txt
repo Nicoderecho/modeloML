@@ -19,3 +19,7 @@ ipykernel
 # Utils
 requests
 beautifulsoup4
+
+# Web Scraping (Senado)
+selenium
+webdriver-manager
