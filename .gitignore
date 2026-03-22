@@ -1,0 +1,29 @@
+# Environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Modelos guardados (se generan en entrenamiento)
+modelos/*.pkl
+
+# Datos sensibles o grandes
+datos/raw/
+datos/processed/

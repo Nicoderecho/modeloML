@@ -1,0 +1,21 @@
+# Core ML
+scikit-learn
+xgboost
+joblib
+
+# Data
+pandas
+numpy
+yfinance
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter
+jupyter
+ipykernel
+
+# Utils
+requests
+beautifulsoup4

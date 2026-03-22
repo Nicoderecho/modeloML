@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python3 -c \":*)",
+      "Bash(python3 -m pip install requests beautifulsoup4 pandas -q)",
+      "Bash(pip3 install:*)",
+      "Bash(python3 -m pip install --user requests beautifulsoup4 pandas)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(mkdir -p /tmp/modeloML_backup)",
+      "Bash(cp -r /home/nico/Proyectos/modeloML/.claude /tmp/modeloML_backup/)",
+      "Bash(cp -r /home/nico/Proyectos/modeloML/src /tmp/modeloML_backup/)",
+      "Bash(cp -r /home/nico/Proyectos/modeloML/notebooks /tmp/modeloML_backup/)",
+      "Bash(cp /home/nico/Proyectos/modeloML/*.md /tmp/modeloML_backup/)",
+      "Bash(git add:*)"
+    ]
+  }
+}
