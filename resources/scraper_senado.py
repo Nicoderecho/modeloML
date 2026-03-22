@@ -20,7 +20,7 @@ WEBSITE = "https://efdsearch.senate.gov/"
 
 # Fecha de inicio para filtrar (formato MM/DD/YYYY)
 # Dejar en None para no filtrar por fecha
-START_DATE = None  # Ejemplo: "07/01/2024"
+START_DATE = "01/01/2024"  # Ejemplo: "07/01/2024"
 
 # Número de páginas a recorrer (None = todas las páginas disponibles)
 MAX_PAGES = None
@@ -42,8 +42,11 @@ def setup_browser():
     options.add_argument("--log-level=3")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--no-sandbox")
+    options.add_argument("--headless")  # Modo sin ventana
 
-    browser = webdriver.Chrome(ChromeDriverManager().install(), options=options)
+    from selenium.webdriver.chrome.service import Service
+    service = Service(ChromeDriverManager().install())
+    browser = webdriver.Chrome(service=service, options=options)
     browser.maximize_window()
     return browser
 
@@ -141,7 +144,17 @@ def process_page(browser, df, entries_per_page):
     processed = 0
     skipped = 0
 
-    for count in range(1, entries_per_page + 1):
+    # Detectar dinámicamente cuántas filas hay en la tabla
+    rows = browser.find_elements(By.XPATH, '//*[@id="filedReports"]/tbody/tr')
+    num_rows = len(rows)
+
+    if num_rows == 0:
+        print("No se encontraron filas en la tabla")
+        return 0, 0
+
+    print(f"Filas detectadas en la página: {num_rows}")
+
+    for count in range(1, min(num_rows + 1, entries_per_page + 1)):
         try:
             # Verificar si la fila tiene datos (no es encabezado)
             caps = browser.find_element(By.XPATH,
