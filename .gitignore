@@ -13,9 +13,10 @@ build/
 # Jupyter
 .ipynb_checkpoints/
 
-# IDE
+# IDE / Configuración local
 .idea/
 .vscode/
+.claude/settings.local.json
 
 # OS
 .DS_Store
