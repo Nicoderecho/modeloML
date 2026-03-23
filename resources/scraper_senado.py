@@ -20,7 +20,7 @@ WEBSITE = "https://efdsearch.senate.gov/"
 
 # Fecha de inicio para filtrar (formato MM/DD/YYYY)
 # Dejar en None para no filtrar por fecha
-START_DATE = "01/01/2024"  # Ejemplo: "07/01/2024"
+START_DATE = "03/01/2026"  # Ejemplo: "07/01/2024"
 
 # Número de páginas a recorrer (None = todas las páginas disponibles)
 MAX_PAGES = None

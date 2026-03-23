@@ -1,0 +1,483 @@
+Name,Transaction Date,Owner,Ticker,Asset Name,Asset Type,Type,Amount,Comment
+"The Honorable James Banks (Banks, James E.)",02/18/2025,Joint,YUM,"Yum! Brands
+Company: Yum  (Louisville, KY)
+Description: Food",Other,Sale (Full),"$1,001 - $15,000",--
+"The Honorable James Banks (Banks, James E.)",08/04/2025,Self,--,starbuck,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable James Banks (Banks, James E.)",06/16/2025,Joint,--,RBLX,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/06/2026,Joint,UBER,"Uber Technologies, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/27/2026,Joint,NTAP,"NetApp, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/13/2026,Joint,MSFT,Microsoft Corporation - Common Stock,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/26/2026,Joint,KR,Kroger Company (The) Common Stock,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/06/2026,Joint,IEF,iShares 7-10 Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/06/2026,Joint,TLH,iShares 10-20 Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/06/2026,Joint,EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/06/2026,Joint,CMBS,iShares CMBS ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/06/2026,Joint,GIGB,Goldman Sachs Access Investment Grade Corporate Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/06/2026,Joint,XTWO,BondBloxx Bloomberg Two Year Target Duration US Treasury ETF,Stock,Purchase,"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",06/04/2024,Joint,MDY,SPDR MidCap Trust Series I,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",06/24/2024,Joint,NMVZX,Nuance Mid Cap Value Fund Z Class,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",07/04/2024,Joint,IVV,iShares Core S&P 500 ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",06/04/2024,Joint,EFA,iShares MSCI EAFE ETF,Stock,Sale (Partial),"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",06/26/2024,Joint,IEF,iShares 7-10 Year Treasury Bond ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",06/26/2024,Joint,SHY,iShares 1-3 Year Treasury Bond ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",06/20/2024,Joint,CMCSA,Comcast Corporation - Class A Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,VNQI,Vanguard Global ex-U.S. Real Estate ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,SCHP,Schwab U.S. TIPS ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/22/2025,Joint,NVDA,Nvidia Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/14/2025,Joint,RNWGX,New World Fund Inc. Cl R-6,Stock,Purchase,"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",08/07/2025,Joint,RNWGX,New World Fund Inc. Cl R-6,Stock,Purchase,"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,RNWGX,New World Fund Inc. Cl R-6,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/22/2025,Joint,LLY,Eli Lilly and Company,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/11/2025,Joint,LLY,Eli Lilly and Company,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,JMBS,Janus Henderson Mortgage-Backed Securities ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,IWM,iShares Russell 2000 ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,IEF,iShares 7-10 Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,SHY,iShares 1-3 Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,TLH,iShares 10-20 Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,CMBS,iShares CMBS Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,IEI,iShares 3-7 Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,TLT,iShares 20+ Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,MBB,iShares MBS ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,AGZ,iShares Agency Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,GEM,Goldman Sachs ActiveBeta Emerging Markets Equity E,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,WWSYX,Westwood Smallcap Fund Class Y,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/07/2025,Joint,AMD,"Advanced Micro Devices, Inc. - Common Stock",Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/16/2025,Joint,SCHP,Schwab U.S. TIPS ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/16/2025,Joint,IEF,iShares 7-10 Year Treasury Bond ETF,Stock,Purchase,"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",09/16/2025,Joint,SHY,iShares 1-3 Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/16/2025,Joint,IEI,iShares 3-7 Year Treasury Bond ETF,Stock,Purchase,"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",09/12/2025,Joint,ETN,Eaton Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/17/2025,Joint,GOOGL,Alphabet Cl A,Stock,Purchase,"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",09/04/2025,Joint,ADBE,Adobe Systems Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/31/2025,Joint,SMCI,"Super Micro Computer, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/26/2025,Joint,KRE,SPDR S&P Regional Banking ETF,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/17/2025,Joint,MSI,"Motorola Solutions, Inc. Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/24/2025,Joint,SLV,iShares Silver Trust,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/11/2025,Joint,TBLL,Invesco Short Term Treasury ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/17/2025,Joint,BSX,Boston Scientific Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/24/2025,Joint,PPLT,abrdn Physical Platinum Shares ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/24/2025,Joint,PALL,abrdn Physical Palladium Shares ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/23/2024,Joint,AMAT,"Applied Materials, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/14/2025,Joint,CRM,Salesforce Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/14/2025,Joint,NVDA,Nvidia Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/28/2025,Joint,NRG,"NRG Energy, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/14/2025,Joint,MA,Mastercard Incorporated Common Stock,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/28/2025,Joint,TBLL,Invesco Short Term Treasury ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/16/2025,Joint,TBLL,Invesco Short Term Treasury ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/20/2024,Joint,SCHP,Schwab U.S. TIPS ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/20/2024,Joint,IEF,iShares 7-10 Year Treasury Bond ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/20/2024,Joint,TLH,iShares 10-20 Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/20/2024,Joint,TLT,iShares 20+ Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/15/2026,Joint,V,Visa Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,VNQI,Vanguard Global ex-U.S. Real Estate ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,TPYP,Tortoise Capital Series Trust Tortoise North Ameri,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,LITP,Sprott Lithium Miners ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/29/2026,Joint,PYPL,Paypal Holdings,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,RNWGX,New World Fund Inc. Cl R-6,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/08/2026,Joint,NFLX,Netflix Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,JMBS,Janus Henderson Mortgage-Backed Securities ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,IVV,iShares Core S&P 500 ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,CMBS,iShares CMBS Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,MBB,iShares MBS ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,TBLL,Invesco Short Term Treasury ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,GIGB,Goldman Sachs Access Investment Grade Corporate Bo,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,GEM,Goldman Sachs ActiveBeta Emerging Markets Equity E,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,FTGC,First Trust Global Tactical Commodity Strategy Fun,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,EIPI,First Trust Exchange-Traded Fund VIII FT Energy In,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/08/2026,Joint,XOM,Exxon Mobil Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/29/2026,Joint,ETN,Eaton Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/08/2026,Joint,DIS,Walt Disney Company,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/26/2026,Joint,DXCM,Dexcom Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/29/2026,Joint,CVS,CVS Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/29/2026,Joint,CAT,Caterpillar Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/15/2026,Joint,AAPL,Apple Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,VEA,Vanguard FTSE Developed Markets ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/14/2025,Joint,EMRZX,Emerging Markets Fund Class Z,Stock,Sale (Full),"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",08/07/2025,Joint,EMRZX,Emerging Markets Fund Class Z,Stock,Sale (Partial),"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,EMRZX,Emerging Markets Fund Class Z,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,URNM,Sprott Uranium Miners ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/22/2025,Joint,MU,Micron Technology,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,IVV,iShares Core S&P 500 ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,EFA,iShares MSCI EAFE ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,SLV,iShares Silver Trust,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,TBLL,Invesco Short Term Treasury ETF,Stock,Sale (Partial),"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,GIGB,Goldman Sachs Access Investment Grade Corporate Bo,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,GEM,Goldman Sachs ActiveBeta Emerging Markets Equity E,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,EMLP,First Trust North American Energy Infrastructure F,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,PPLT,abrdn Physical Platinum Shares ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/01/2025,Joint,PALL,abrdn Physical Palladium Shares ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/22/2025,Joint,ABBV,Abbvie Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",08/11/2025,Joint,ABBV,Abbvie Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",07/31/2025,Joint,MDLZ,Mondelez Intl Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",07/01/2025,Joint,MU,Micron Technology,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",07/24/2025,Joint,JPM,JP Morgan Chase & Company,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",07/08/2025,Joint,HYG,iShares iBoxx $ High Yield Corporate Bond ETF,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",07/31/2025,Joint,GD,General Dynamics Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",10/31/2025,Joint,META,Meta Platforms Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",10/03/2025,Joint,FTGC,First Trust Global Tactical Commodity Strategy Fun,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",10/03/2025,Joint,EIPI,First Trust Exchange-Traded Fund VIII FT Energy In,Stock,Purchase,"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",10/09/2025,Joint,COST,Costco Wholesale,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,SCHP,Schwab U.S. TIPS ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,JMBS,Janus Henderson Mortgage-Backed Securities ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,IVV,iShares Core S&P 500 ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,IEF,iShares 7-10 Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,SHY,iShares 1-3 Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,TLH,iShares 10-20 Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,CMBS,iShares CMBS Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,IEI,iShares 3-7 Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,TLT,iShares 20+ Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,MBB,MBS Ishares ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,AGZ,iShares Agency Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,TBLL,Invesco Short Term Treasury ETF,Stock,Purchase,"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,GIGB,Goldman Sachs Access Investment Grade Corporate Bo,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,FTGC,First Trust Global Tactical Commodity Strategy Fun,Stock,Purchase,"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,PPLT,Aberdeen Standard Physical Platinum Shares ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,PALL,Aberdeen Standard Physical Palladium Shares ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/16/2025,Joint,SPY,SPDR??S&P 500? ETF Trust,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/28/2025,Joint,IVW,iShares S&P 500 Growth ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/14/2025,Joint,QQQ,"Invesco QQQ Trust, Series 1",Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/28/2025,Joint,HPQ,HP Inc,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/14/2025,Joint,EBAY,Ebay Inc,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/14/2025,Joint,CSCO,Cisco Systems Inc,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",07/18/2024,Joint,VEA,Vanguard FTSE Developed Markets ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",07/26/2024,Joint,MSI,"Motorola Solutions, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",07/26/2024,Joint,GOOGL,Alphabet Inc. - Class A Common Stock,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",07/18/2024,Joint,MDY,SPDR MidCap Trust Series I,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",07/26/2024,Joint,LRCX,Lam Research Corporation - Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/30/2025,Joint,RTX,Raytheon Technologies Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/13/2025,Joint,NVDA,Nvidia Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/30/2025,Joint,META,Meta Platforms Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/16/2025,Joint,META,Meta Platforms Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/20/2025,Joint,HD,Home Depot,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/16/2025,Joint,HD,Home Depot,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/13/2025,Joint,AVGO,Broadcom Inc. - Common Stock,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/20/2025,Joint,ATO,Atmos Energy Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/16/2025,Joint,AMZN,Amazon.com Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/20/2025,Joint,GOOGL,Alphabet Cl A,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/13/2024,Joint,SPY,SPDR S&P 500,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/20/2024,Joint,AAXJ,iShares MSCI All Country Asia ex Japan ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/29/2026,Joint,UNP,Union Pacific Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,--,SPYM,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,MDY,SPDR S&P MidCap 400 ETF Trust,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/29/2026,Joint,OMC,Omnicom Group Inc,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/15/2026,Joint,OMC,Omnicom Group Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/26/2026,Joint,MU,Micron Technology,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/08/2026,Joint,MU,Micron Technology,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/08/2026,Joint,LRCX,Lam Research Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/29/2026,Joint,IVW,iShares S&P 500 Growth ETF,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,IWM,iShares Russell 2000 ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,SLV,iShares Silver Trust,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/29/2026,Joint,FISV,Fiserv Inc,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,PPLT,abrdn Physical Platinum Shares ETF,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",01/23/2026,Joint,PALL,abrdn Physical Palladium Shares ETF,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/19/2026,Joint,UNP,Union Pacific Corporation Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/26/2026,Joint,PG,Procter & Gamble Company (The) Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/06/2026,Joint,JMBS,Janus Henderson Mortgage-Backed Securities ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/06/2026,Joint,SHY,iShares 1-3 Year Treasury Bond ETF,Stock,Sale (Full),"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",02/06/2026,Joint,MBB,iShares MBS ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/06/2026,Joint,AGZ,iShares Agency Bond ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/06/2026,Joint,DBLEX,DoubleLine Emerging Markets Fixed Income Fund - Class I,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/27/2026,Joint,AMAT,"Applied Materials, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/13/2026,Joint,ADBE,Adobe Inc. - Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/20/2023,Self,LRCX,Lam Research Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/12/2023,Self,GBIL,Goldman Sachs Access Treasury 0-1 Year ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/20/2023,Self,PFE,Pfizer Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/12/2023,Self,PPLT,abrdn Physical Platinum Shares ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/12/2023,Self,PALL,abrdn Physical Palladium Shares ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/06/2025,Joint,VEA,Vanguard FTSE Developed Markets ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/06/2025,Joint,VWO,Vanguard FTSE Emerging Markets ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/21/2025,Joint,MDY,S&P Midcap 400 SPDR,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/21/2025,Joint,PYPL,Paypal Holdings,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/13/2025,Joint,--,META,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/21/2025,Joint,JMBS,Janus Henderson Mortgage-Backed Securities ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/21/2025,Joint,CMBS,iShares CMBS Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/21/2025,Joint,MBB,iShares MBS ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/21/2025,Joint,GIGB,Goldman Sachs Access Investment Grade Corporate Bo,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/13/2025,Joint,ANET,Arista Networks Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/13/2025,Joint,AMZN,Amazon.com Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/20/2025,Joint,WWSYX,Westwood Smallcap Fund Class Y,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",07/31/2025,Joint,WMT,Walmart Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",07/08/2025,Joint,GIGB,Goldman Sachs Access Investment Grade Corporate Bo,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",07/31/2025,Joint,GE,General Electric Company,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",07/24/2025,Joint,--,BRK-B - Berkshire Hathaway Inc Class B,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/31/2024,Joint,GIGB,Goldman Sachs Access Investment Grade Corporate Bo,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/31/2024,Joint,IVW,iShares S&P 500 Growth ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/31/2024,Joint,EFA,iShares MSCI EAFE ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/11/2024,Joint,EFA,iShares MSCI EAFE ETF,Stock,Sale (Partial),"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",04/16/2024,Joint,CMBS,iShares CMBS Bond ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/16/2024,Joint,JMBS,Janus Henderson Mortgage-Backed Securities ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/11/2024,Joint,SCZ,iShares MSCI EAFE Small-Cap ETF,Stock,Purchase,"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",06/04/2024,Joint,VEA,Vanguard FTSE Developed Markets ETF,Stock,Purchase,"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",06/24/2024,Joint,DALCX,Dean Mid Cap Value Fund No-Load,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",06/04/2024,Joint,SPY,S&P 500 SPDR,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",06/26/2024,Joint,SCHP,Schwab U.S. TIPS ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",06/20/2024,Joint,MSFT,Microsoft Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",06/04/2024,Joint,NMVZX,Nuance Mid Cap Value Fund Z Class,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",06/26/2024,Joint,JMBS,Janus Henderson Mortgage-Backed Securities ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",06/26/2024,Joint,TLH,iShares 10-20 Year Treasury Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",06/04/2024,Joint,GEM,Goldman Sachs ActiveBeta Emerging Markets Equity E,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/12/2025,Joint,ORCL,Oracle Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/17/2025,Joint,MU,Micron Technology,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/16/2025,Joint,JMBS,Janus Henderson Mortgage-Backed Securities ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/16/2025,Joint,CMBS,iShares CMBS Bond ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/16/2025,Joint,TLT,iShares 20+ Year Treasury Bond ETF,Stock,Sale (Partial),"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",09/16/2025,Joint,MBB,iShares MBS ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/16/2025,Joint,AGZ,iShares Agency Bond ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/16/2025,Joint,GBIL,Goldman Sachs Access Treasury 0-1 Year ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/16/2025,Joint,GIGB,Goldman Sachs Access Investment Grade Corporate Bo,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",03/19/2025,Joint,IVW,iShares S&P 500 Growth ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",03/19/2025,Joint,DTE,Dte Energy Company,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/26/2024,Joint,FI,Fiserv Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/09/2024,Joint,VEA,Vanguard FTSE Developed Markets ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,VNQI,Vanguard Global ex-U.S. Real Estate ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/09/2024,Joint,MDY,S&P Midcap 400 SPDR,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,TPYP,Tortoise North American Pipeline ETF,Stock,Sale (Partial),"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",10/06/2024,Joint,IVV,iShares Core S&P 500 ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",10/09/2024,Joint,IWM,iShares Russell 2000 ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/09/2024,Joint,EFA,iShares MSCI EAFE ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,EMLP,First Trust North American Energy Infrastructure F,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",09/06/2024,Joint,WWSYX,Westwood Quality Smallcap Fund - Ultra Shares,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",06/11/2025,Joint,UNH,Unitedhealth Group Inc,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",06/11/2025,Joint,MU,Micron Technology,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/20/2023,Self,LRCX,Lam Research Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/12/2023,Self,GBIL,Goldman Sachs Access Treasury 0-1 Year ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/20/2023,Self,PFE,Pfizer Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/12/2023,Self,PALL,abrdn Physical Palladium Shares ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/12/2023,Self,PALL,abrdn Physical Palladium Shares ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/17/2025,Joint,WFC,Wells Fargo & Company,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/11/2025,Joint,SMCI,Super Micro Computer,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/24/2025,Joint,SPYM,State Street SPDR Portfolio S&P 500 ETF,Stock,Purchase,"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",12/17/2025,Joint,MSFT,Microsoft Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/31/2025,Joint,IVW,iShares S&P 500 Growth ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/26/2025,Joint,IJR,iShares Core S&P Small-Cap ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/11/2025,Joint,ANET,"Arista Networks, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",12/17/2025,Joint,AAPL,Apple Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/25/2025,Joint,URNM,Sprott Uranium Miners ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/26/2025,Joint,LITP,Sprott Lithium Miners ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/26/2025,Joint,NVDA,Nvidia Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/26/2025,Joint,MSI,Motorola Solutions,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/14/2025,Joint,MSFT,Microsoft Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/05/2025,Joint,MSFT,Microsoft Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/05/2025,Joint,MA,Mastercard Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/26/2025,Joint,TBLL,Invesco Short Term Treasury ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/26/2025,Joint,ECL,Ecolab Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/13/2025,Joint,BSX,Boston Scientific Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/26/2025,Joint,AXP,American Express Company,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/05/2025,Joint,AXP,American Express Company,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/26/2025,Joint,AMZN,Amazon.com Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/04/2025,Joint,AMZN,Amazon.com Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/13/2025,Joint,GOOGL,Alphabet Cl A,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/22/2025,Joint,CRM,Salesforce Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/16/2025,Joint,LRCX,Lam Research Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/08/2025,Joint,JPM,JP Morgan Chase & Company,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/08/2025,Joint,IVW,iShares S&P 500 Growth ETF,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/09/2025,Joint,SHY,iShares 1-3 Year Treasury Bond ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/16/2025,Joint,GILD,Gilead Sciences Inc,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/15/2025,Joint,BAC,Bank of America Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/16/2025,Joint,AMAT,Applied Materials,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",03/28/2024,Joint,HES,Hess Corp,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",03/28/2024,Joint,AMAT,Applied Materials,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/16/2025,Joint,UNH,Unitedhealth Group Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/16/2025,Joint,ORCL,Oracle Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/22/2025,Joint,MSFT,Microsoft Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/16/2025,Joint,MSFT,Microsoft Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/15/2025,Joint,META,Meta Platforms Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/09/2025,Joint,HYG,iShares iBoxx $ High Yield Corporate Bond ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/08/2025,Joint,COLPAL,COLGATE PALMOLIVE LTD.,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/08/2025,Joint,FTGC,First Trust Global Tactical Commodity Strategy Fun,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",04/08/2025,Joint,AVGO,Broadcom Inc. - Common Stock,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/13/2025,Joint,VLO,Valero Energy Corp,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/20/2025,Joint,NRG,NRG Energy,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/20/2025,Joint,LOW,Lowe's Companies,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/16/2025,Joint,TBLL,Invesco Short Term Treasury ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/20/2025,Joint,GD,General Dynamics Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/30/2025,Joint,FBIN,Fortune Brands Innovations Inc,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/20/2025,Joint,DTE,Dte Energy Company,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/21/2025,Joint,VEA,Vanguard FTSE Developed Markets ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/21/2025,Joint,VNQI,Vanguard Global ex-U.S. Real Estate ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/21/2025,Joint,TPYP,Tortoise North Amer Pipeline Fund,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/13/2025,Joint,CRM,Salesforce Inc,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/20/2025,Joint,RNWAX,American Funds - New World Fund Inc Class R-1 Sh,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/21/2025,Joint,LLY,Eli Lilly and Company,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/21/2025,Joint,IVV,iShares Core S&P 500 ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/21/2025,Joint,IWM,iShares Russell 2000 ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/20/2025,Joint,EFA,iShares MSCI EAFE ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/06/2025,Joint,AAXJ,iShares MSCI All Country Asia ex Japan ETF,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/20/2025,Joint,GEM,Goldman Sachs ActiveBeta Emerging Markets Equity E,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/21/2025,Joint,FISV,Fiserv Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/21/2025,Joint,FTGC,First Trust Global Tactical Commodity Strategy Fun,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/21/2025,Joint,EIPI,First Trust Exchange-Traded Fund VIII FT Energy In,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",06/11/2025,Joint,TBLL,Invesco Short Term Treasury ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",06/11/2025,Joint,AVGO,Broadcom Inc. - Common Stock,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/03/2025,Joint,TPYP,Tortoise North American Pipeline ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",10/03/2025,Joint,URNM,Sprott Uranium Miners ETF,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",10/03/2025,Joint,LITP,Sprott Lithium Miners ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",10/31/2025,Joint,OMC,Omnicom Group Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",10/03/2025,Joint,SLV,iShares Silver Trust,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",10/02/2025,Joint,IQV,Iqvia Holdings Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",10/03/2025,Joint,EMLP,First Trust North American Energy Infrastructure F,Stock,Sale (Full),"$15,001 - $50,000",--
+"The Honorable John Boozman (Boozman, John)",10/09/2025,Joint,COLPAL,COLGATE PALMOLIVE LTD.,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/20/2024,Joint,VWO,Vanguard FTSE Emerging Markets ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/20/2024,Joint,SWKS,"Skyworks Solutions, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",11/20/2024,Joint,BBEU,JPMorgan BetaBuilders Europe ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/30/2025,Joint,RTX,Raytheon Technologies Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/13/2025,Joint,NVDA,Nvidia Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/30/2025,Joint,META,Meta Platforms Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/16/2025,Joint,META,Meta Platforms Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/20/2025,Joint,HD,Home Depot,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/16/2025,Joint,HD,Home Depot,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/13/2025,Joint,--,Broadcom Inc. - Common Stock,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/20/2025,Joint,ATO,Atmos Energy Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/16/2025,Joint,AMZN,Amazon.com Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",05/20/2025,Joint,GOOGL,Alphabet Cl A,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/04/2025,Joint,QSR,Restaurant Brands International,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/13/2025,Joint,PFE,Pfizer Inc,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/05/2025,Joint,LRCX,Lam Research Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/05/2025,Joint,JPM,JP Morgan Chase & Company,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/26/2025,Joint,IVW,iShares S&P 500 Growth ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/14/2025,Joint,IVW,iShares S&P 500 Growth ETF,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/26/2025,Joint,FTGC,First Trust Global Tactical Commodity Strategy Fun,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/26/2025,Joint,EMLP,First Trust North American Energy Infrastructure F,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/13/2025,Joint,DIS,Walt Disney Company,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",02/05/2025,Joint,BAC,Bank of America Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",03/19/2025,Joint,TBLL,Invesco Short Term Treasury ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",03/05/2025,Joint,TBLL,Invesco Short Term Treasury ETF,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable John Boozman (Boozman, John)",03/19/2025,Joint,AMAT,Applied Materials,Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",04/14/2025,Spouse,XOM,Exxon Mobil Corp,Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",04/14/2025,Spouse,JPM,JP Morgan Chase & Company,Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",04/14/2025,Spouse,GOOG,Alphabet Cl C,Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",04/14/2025,Spouse,EOG,"EOG Resources, Inc. Common Stock",Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",04/14/2025,Spouse,AAPL,Apple Inc,Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",04/14/2025,Spouse,AMZN,Amazon.com Inc,Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",04/14/2025,Spouse,WMT,Walmart Inc,Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",04/14/2025,Spouse,V,Visa Inc,Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",04/14/2025,Spouse,MSFT,Microsoft Corp,Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",04/14/2025,Spouse,UNH,Unitedhealth Group Inc,Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",04/14/2025,Spouse,NVDA,Nvidia Corp,Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",04/30/2025,Spouse,AMZN,Amazon.com Inc,Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",04/30/2025,Spouse,AAPL,Apple Inc,Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",04/30/2025,Spouse,UNH,Unitedhealth Group Inc,Stock,Sale (Full),"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",04/30/2025,Spouse,NVDA,Nvidia Corp,Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",04/30/2025,Spouse,XOM,Exxon Mobil Corp,Stock,Sale (Full),"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",11/07/2025,Spouse,NVDA,Nvidia Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",11/07/2025,Spouse,AAPL,Apple Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",11/07/2025,Spouse,GOOG,Alphabet Cl C,Stock,Sale (Partial),"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",11/07/2025,Spouse,UPS,United Parcel Service,Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",11/07/2025,Spouse,AMZN,Amazon.com Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",11/07/2025,Spouse,V,Visa Inc,Stock,Purchase,"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",01/28/2026,Spouse,JPM,JP Morgan Chase & Company,Stock,Sale (Full),"$1,001 - $15,000",--
+"Mrs. Katie Britt (Britt, Katie)",07/24/2024,Joint,ONEW,OneWater Marine Inc. - Class A Common Stock,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",04/23/2024,Spouse,JPM,JP Morgan Chase & Company,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",04/23/2024,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",04/23/2024,Spouse,AAPL,Apple Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",04/09/2024,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",04/09/2024,Spouse,GWW,W.W. Grainger,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",04/09/2024,Spouse,SPGI,S&P Global Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",04/09/2024,Spouse,AAPL,Apple Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/31/2025,Spouse,CL,Colgate-Palmolive Company,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/31/2025,Spouse,PPG,PPG Industries,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/31/2025,Spouse,GD,General Dynamics Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/30/2025,Spouse,PPG,PPG Industries,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/29/2025,Spouse,META,Meta Platforms Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/29/2025,Spouse,GOOGL,Alphabet Cl A,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/18/2025,Spouse,AVGO,Broadcom Ltd,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/18/2025,Spouse,JPM,JP Morgan Chase & Company,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/18/2025,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/18/2025,Spouse,AAPL,Apple Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/18/2025,Spouse,AFL,Aflac Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/17/2025,Spouse,CB,Chubb Ltd,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/01/2025,Spouse,AXP,American Express Company,Stock,Purchase,"$15,001 - $50,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",08/28/2024,Spouse,NKE,Nike Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",08/27/2024,Spouse,AVGO,Broadcom Inc. - Common Stock,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",08/22/2024,Spouse,NSC,Norfolk Southern Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",09/18/2025,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$15,001 - $50,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",09/18/2025,Spouse,AAPL,Apple Inc,Stock,Sale (Partial),"$15,001 - $50,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",10/24/2025,Spouse,LLY,Eli Lilly and Company,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",10/22/2025,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",10/21/2025,Spouse,PAYX,Paychex Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",10/21/2025,Spouse,LOW,Lowe's Companies,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",10/20/2025,Spouse,LOW,Lowe's Companies,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",10/17/2025,Spouse,COST,Costco Wholesale,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",10/17/2025,Spouse,CVX,Chevron Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",10/29/2025,Spouse,MSFT,Microsoft Corp,Stock,Sale (Full),"$15,001 - $50,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",10/29/2025,Spouse,IBM,Intl Business Machines,Stock,Sale (Partial),"$15,001 - $50,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",10/29/2025,Spouse,--,Citigroup Inc New (C),Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",01/28/2026,Spouse,SBUX,Starbucks Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",04/29/2025,Spouse,GOOGL,Alphabet Cl A,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",04/11/2025,Spouse,TGT,Target Corp,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",04/10/2025,Spouse,NKE,Nike Inc,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",06/27/2024,Spouse,APD,Air Products and Chemicals,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/24/2026,Spouse,ITW,Illinois Tool Works Inc. Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/20/2026,Spouse,PAYX,"Paychex, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/10/2026,Spouse,BLK,"BlackRock, Inc. Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/10/2026,Spouse,ADI,"Analog Devices, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/09/2026,Spouse,AVGO,Broadcom Inc. - Common Stock,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/09/2026,Spouse,--,GOOGL - Alphabet Inc. - Class C Capital Stock,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",06/23/2025,Spouse,UNH,Unitedhealth Group Inc,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",06/18/2025,Spouse,ADI,Analog Devices,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",06/18/2025,Spouse,WFC,Wells Fargo & Company,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",06/18/2025,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",06/18/2025,Spouse,XOM,Exxon Mobil Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",06/18/2025,Spouse,C,Citigroup Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",03/26/2025,Spouse,META,Meta Platforms Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",03/26/2025,Spouse,CEG,Constellation Energy Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/27/2024,Spouse,ZTS,Zoetis Inc Cl A,Stock,Purchase,"$15,001 - $50,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/23/2024,Spouse,SBUX,Starbucks Corp,Stock,Purchase,"$15,001 - $50,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/15/2024,Spouse,BDX,Becton Dickinson and Company,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/09/2024,Spouse,MDT,Medtronic Inc,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",12/11/2025,Spouse,K,Kellanova,Stock,Sale (Full),"$1,001 - $15,000","Merged with Mars, Incorporated"
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",12/16/2025,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",12/16/2025,Spouse,AAPL,Apple Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",12/16/2025,Spouse,GOOGL,Alphabet Cl A,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/01/2024,Spouse,AVGO,Broadcom Ltd,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/25/2024,Spouse,PEP,Pepsico Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/25/2024,Spouse,LOW,Lowe's Companies,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/17/2024,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/17/2024,Spouse,XOM,Exxon Mobil Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/17/2024,Spouse,C,Citigroup Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/25/2025,Spouse,--,Meta Platforms Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/24/2025,Spouse,CMCSA,Comcast Corp A,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/24/2025,Spouse,ACN,Accenture Plc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/24/2025,Spouse,ABT,Abbott Laboratories,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/05/2025,Spouse,AAPL,Apple Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/04/2025,Spouse,CEG,Constellation Energy Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/04/2025,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",08/04/2025,Spouse,BLK,Blackrock Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",08/01/2025,Spouse,SHW,Sherwin-Williams Company,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",08/01/2025,Spouse,PLD,Prologis Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",12/27/2024,Spouse,GE,GE Aerospace,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",12/20/2024,Spouse,UNH,Unitedhealth Group Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",12/13/2024,Spouse,LOW,Lowe's Companies,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",12/12/2024,Spouse,AVGO,Broadcom Inc. - Common Stock,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",12/16/2024,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",10/08/2024,Spouse,CSL,Carlisle Companies Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",06/23/2025,Spouse,UNH,Unitedhealth Group Inc,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",06/18/2025,Spouse,ADI,Analog Devices,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",06/18/2025,Spouse,WFC,Wells Fargo & Company,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",06/18/2025,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",06/18/2025,Spouse,XOM,Exxon Mobil Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",06/18/2025,Spouse,C,Citigroup Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/24/2026,Spouse,ITW,Illinois Tool Works Inc. Common Stock,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/20/2026,Spouse,PAYX,"Paychex, Inc. - Common Stock",Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/10/2026,Spouse,BLK,"BlackRock, Inc. Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/10/2026,Spouse,ADI,"Analog Devices, Inc. - Common Stock",Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/09/2026,Spouse,AVGO,Broadcom Inc. - Common Stock,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",02/09/2026,Spouse,--,GOOGL - Alphabet Inc. - Class C Capital Stock,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",03/26/2025,Spouse,META,Meta Platforms Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",03/26/2025,Spouse,CEG,Constellation Energy Corp,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/31/2025,Spouse,CL,Colgate-Palmolive Company,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/31/2025,Spouse,PPG,PPG Industries,Stock,Sale (Full),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/31/2025,Spouse,GD,General Dynamics Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/30/2025,Spouse,PPG,PPG Industries,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/29/2025,Spouse,META,Meta Platforms Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/29/2025,Spouse,GOOGL,Alphabet Cl A,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/18/2025,Spouse,AVGO,Broadcom Ltd,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/18/2025,Spouse,JPM,JP Morgan Chase & Company,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/18/2025,Spouse,MSFT,Microsoft Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/18/2025,Spouse,AAPL,Apple Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/18/2025,Spouse,AFL,Aflac Inc,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/17/2025,Spouse,CB,Chubb Ltd,Stock,Sale (Partial),"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",07/01/2025,Spouse,AXP,American Express Company,Stock,Purchase,"$15,001 - $50,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",08/28/2024,Spouse,NKE,Nike Inc,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",08/27/2024,Spouse,AVGO,Broadcom Inc. - Common Stock,Stock,Purchase,"$1,001 - $15,000",--
+"The Honorable Shelley M Capito (Capito, Shelley Moore)",08/22/2024,Spouse,NSC,Norfolk Southern Corp,Stock,Sale (Partial),"$1,001 - $15,000",--
