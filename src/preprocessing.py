@@ -105,3 +105,54 @@ def dividir_train_test(
     return train_test_split(
         X, y, test_size=test_size, random_state=random_state, stratify=y
     )
+
+
+def enriquecer_con_retornos(
+    df: pd.DataFrame,
+    ruta_output: str = "datos/processed/transacciones_con_retornos.csv",
+    **kwargs
+) -> pd.DataFrame:
+    """
+    Enriquece transacciones con retornos calculados desde yfinance.
+
+    Función wrapper que importa desde enriquecer_precios.py
+
+    Args:
+        df: DataFrame con transacciones (columnas: Ticker, Type, Transaction.Date)
+        ruta_output: Ruta para guardar datos enriquecidos
+        **kwargs: Argumentos para enriquecer_transacciones_con_retornos
+
+    Returns:
+        DataFrame con columnas añadidas: retorno_porcentual, retorno_anualizado, alpha
+    """
+    from enriquecer_precios import enriquecer_transacciones_con_retornos
+
+    return enriquecer_transacciones_con_retornos(df, ruta_output=ruta_output, **kwargs)
+
+
+def añadir_features_politicas(
+    df: pd.DataFrame,
+    df_info: pd.DataFrame
+) -> pd.DataFrame:
+    """
+    Añade features políticas al DataFrame de transacciones.
+
+    Args:
+        df: DataFrame con transacciones
+        df_info: DataFrame con información política de congresistas
+
+    Returns:
+        DataFrame con features políticas añadidas
+    """
+    df = df.copy()
+
+    # Normalizar nombres para merge
+    df['name_lower'] = df['Name'].str.strip().str.lower()
+
+    # Merge con información política
+    df = df.merge(df_info, left_on='name_lower', right_on='name', how='left')
+
+    # Eliminar columna temporal
+    df = df.drop(columns=['name_lower'])
+
+    return df
