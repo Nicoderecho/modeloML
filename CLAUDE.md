@@ -16,6 +16,30 @@ Aprendizaje de ML + proyecto funcional. El modelo aprende de datos históricos p
 - **Jupyter Notebook** - Aprendizaje y exploración
 - **yfinance** - Datos de mercado
 
+## Claude instructions
+
+Always use Superpowers skills when available.
+Default workflow:
+1. Brainstorm
+2. Write plan
+3. Execute plan
+4. Code review
+5. Verification
+
+Use Superpowers for:
+
+- new features
+- refactoring
+- debugging
+- architecture changes
+
+Skip Superpowers for:
+
+- small fixes
+- simple scripts
+- quick edits
+
+
 ## Estructura del Proyecto
 
 ```
